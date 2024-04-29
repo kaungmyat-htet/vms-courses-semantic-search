@@ -1,0 +1,7 @@
+langchain
+langchain-nvidia-ai-endpoints
+pymongo
+fastapi[all]
+python-dotenv
+llama-index
+llama-index-vector-stores-mongodb
